@@ -7,7 +7,7 @@ int main()
     x = 5;
     for (z = 0; z <= 20; z += 5)
     {
-        cout << "NIOMIC " << z << endl;
+        cout << z << endl;
     }
 
     return 0;
