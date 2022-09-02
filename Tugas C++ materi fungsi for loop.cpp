@@ -2,9 +2,8 @@
 using namespace std;
 int main()
 {
-    int x, z;
+    int z;
 
-    x = 5;
     for (z = 0; z <= 20; z += 5)
     {
         cout << z << endl;
